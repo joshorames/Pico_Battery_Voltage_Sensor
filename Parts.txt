@@ -1,0 +1,4 @@
+*** Parts ***
+- Two resistors to create a voltage divider
+- Breadboard and Jumper Wires
+- Multimeter to ensure it is correct
